@@ -1,5 +1,8 @@
 # main.tf 파일에서 사용하려는 변수를 선언하는 파일
 
+variable "st_access_key" {
+}
+
 variable "agent_count" {
   default = 3
 }
