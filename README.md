@@ -24,3 +24,18 @@
   <h4>23.03.21<br>
   : Azure 내부 네트워크망에서 작업하고 통신하기 위한 Bastion 구성</h4>
 <p>
+  
+<p>
+  <h4>23.03.23 ~ 23.03.24<br>
+  : Azure Resource Terraform 모듈화</h4>
+</p>
+
+<p>
+  <h4>23.03.27 ~ 23.03.29<br>
+  : Azure DevOps Pipelines 예제 구성 및 필요 지식 학습</h4>
+</p>
+
+<p>
+  <h4>23.03.30 ~ <br>
+  : Azure DevOps Pipelines 실 제품 소스 PR/CI/CD </h4>
+</p>
