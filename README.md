@@ -39,3 +39,8 @@
   <h4>23.03.30 ~ <br>
   : Azure DevOps Pipelines 실 제품 소스 PR/CI/CD </h4>
 </p>
+
+<p>
+  <h4>23.07.04<br>
+  : Azure Resource AKS(Azure Kubernetes Service) version & node count 변경 </h4>
+</p>
